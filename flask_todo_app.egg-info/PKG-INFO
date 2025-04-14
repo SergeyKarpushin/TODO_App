@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: flask_todo_app
 Version: 0.1.0
 Summary: A simple Flask TODO app
@@ -10,10 +10,3 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Requires-Dist: Flask
 Requires-Dist: Flask-SQLAlchemy
-Dynamic: author
-Dynamic: author-email
-Dynamic: classifier
-Dynamic: home-page
-Dynamic: requires-dist
-Dynamic: requires-python
-Dynamic: summary
